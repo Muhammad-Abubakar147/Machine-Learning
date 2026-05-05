@@ -1,0 +1,3 @@
+Batch Machine learingis actually type of machine learingin which model 
+
+not train with new updates we updates the model offline..
