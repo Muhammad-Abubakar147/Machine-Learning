@@ -1,3 +1,8 @@
 Batch Machine learingis actually type of machine learingin which model 
 
-not train with new updates we updates the model offline..
+not train with new updates we updates the model offline.. In Batch learning we train our model 
+ in our machine offline
+
+What is production ?
+
+=> Production is basically server where our code run
