@@ -1,0 +1,8 @@
+Mainly there are many types of machine learing but there are 4  main types of machine learning 
+
+01.=> Supervised Machine learing..
+02.=> Unsupervised machine learning..
+03.=> Semisupervised machine learning..
+04.=> Inforcement Machine learning..
+
+
