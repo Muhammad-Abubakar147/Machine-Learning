@@ -1,0 +1,17 @@
+What is Ai ?
+
+=> Ai stands for Artificial intelligence 
+
+it is the main concept of Ml in which we train machine like human beigns 
+
+What is Machine learning ..?
+
+=> Machine learning is the branch of computer science in which computer ables to learn form data 
+
+Mcahine learning is mainly learning form the data 
+
+What is Dl ..?
+
+=> Deep learning is a subset of machine learning.  we can say that deep learning is like machine learing 
+
+deep learning is inspired from (nural  network).. we can say that it like human brain ..
