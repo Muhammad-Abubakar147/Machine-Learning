@@ -1,0 +1,4 @@
+Model based learing is the process of learning in which system learns fron the data 
+
+(formula and patterns) form the data and make prediction about it 
+
