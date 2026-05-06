@@ -1,0 +1,8 @@
+Instance-Based Learning
+
+Instance-based learning is a method where the model does not learn a general formula. Instead,
+
+ it memorizes the training data and makes predictions by comparing new data with stored examples.
+
+Simple idea:
+The model “remembers” data and finds similar cases.
