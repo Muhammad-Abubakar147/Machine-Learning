@@ -8,3 +8,9 @@ Examples:
  = > Linear Regression
  = > Logistic Regression
  = > Neural Networks
+
+ Final summary b/w Instance based laearning and modle based learning 
+
+ => Instance-based learning relies on stored examples to make predictions, while 
+ 
+ => Model-based learning creates a general model to predict new data.
