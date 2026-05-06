@@ -2,3 +2,9 @@ Model based learing is the process of learning in which system learns fron the d
 
 (formula and patterns) form the data and make prediction about it 
 
+Model based learning is genralizing the formulae and patterns and make predictions .
+
+Examples:
+ = > Linear Regression
+ = > Logistic Regression
+ = > Neural Networks
