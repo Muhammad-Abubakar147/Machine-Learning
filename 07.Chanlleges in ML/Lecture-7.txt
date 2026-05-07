@@ -1,8 +1,13 @@
 Hi this is about cahllenges in machine learning 
 
-First of all in machine learning data colllection is a big problem 
+First of all in machine learning "data colllection" is a big problem 
+
 generanlly we collect data from two methods 
 
 => API
 => Web scraping
 we faces many cahllenges during these methods 
+
+Second one is that if we got the data then we will check that 
+
+=>given data is sufficient or not 
