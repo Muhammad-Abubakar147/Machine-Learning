@@ -10,4 +10,6 @@ we faces many cahllenges during these methods
 
 Second one is that if we got the data then we will check that 
 
-=>given data is sufficient or not 
+=>given data is "sufficient" or not 
+
+Third one is that " Non Representive data"
