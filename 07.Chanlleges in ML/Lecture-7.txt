@@ -38,7 +38,7 @@ Eightt one is that
 
 NInth one is that 
 
-=> Offline learning deployment which is  same as batch learning (offline learning model)
+=> "Offline learning deployment" which is  same as batch learning (offline learning model)
 
 The last one is 
 
