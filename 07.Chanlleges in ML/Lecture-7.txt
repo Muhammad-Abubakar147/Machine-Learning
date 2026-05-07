@@ -24,3 +24,11 @@ Fifth one is that
 
 => "Irrelevent features" if we garbage in our Ml model then we will recive garbage out 
 
+Six is 
+
+=> "Overfitting" Model follows just given data 
+
+Seventh is that 
+
+=> "Underfitting" it just opposite of overfitting 
+
