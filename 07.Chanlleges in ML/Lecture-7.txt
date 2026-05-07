@@ -12,4 +12,11 @@ Second one is that if we got the data then we will check that
 
 =>given data is "sufficient" or not 
 
-Third one is that " Non Representive data"
+Third one is that 
+
+=> "Non Representive data"
+
+Fourth one is 
+
+=>"Poor quality data"
+
