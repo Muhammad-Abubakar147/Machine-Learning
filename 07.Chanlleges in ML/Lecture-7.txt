@@ -40,3 +40,9 @@ NInth one is that
 
 => Offline learning deployment which is  same as batch learning (offline learning model)
 
+The last one is 
+
+cost involved 
+
+ in this problem we face financial problem somtimes model require huge amount of money
+
