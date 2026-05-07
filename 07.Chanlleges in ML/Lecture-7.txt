@@ -32,3 +32,11 @@ Seventh is that
 
 => "Underfitting" it just opposite of overfitting 
 
+Eightt one is that 
+
+"Software integration" 
+
+NInth one is that 
+
+=> Offline learning deployment which is  same as batch learning (offline learning model)
+
