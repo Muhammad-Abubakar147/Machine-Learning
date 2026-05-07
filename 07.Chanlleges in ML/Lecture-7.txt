@@ -20,3 +20,7 @@ Fourth one is
 
 =>"Poor quality data"
 
+Fifth one is that 
+
+=> "Irrelevent features" if we garbage in our Ml model then we will recive garbage out 
+
