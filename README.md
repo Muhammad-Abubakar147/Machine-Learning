@@ -17,4 +17,15 @@ In this repository, you will find:
 - 📝 Jupyter Notebooks
 
 ---
+# 🛠️ Technologies & Tools
+
+## 💻 Programming Language
+- Python
+
+## 📚 Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
