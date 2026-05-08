@@ -74,4 +74,14 @@ In this repository, you will find:
 
 ---
 
+# 🚀 Goals
+
+- Improve Machine Learning Skills
+- Build Real-World Projects
+- Learn AI & Deep Learning
+- Share Knowledge with Others
+- Maintain Consistent GitHub Contributions
+
+---
+
 
