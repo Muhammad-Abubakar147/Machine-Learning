@@ -7,5 +7,14 @@ This repository contains my learning journey, practice notebooks, projects, and 
 # 📌 About This Repository
 
 In this repository, you will find:
+- 📊 Data Analysis
+- 🤖 Machine Learning Algorithms
+- 🧠 Deep Learning Basics
+- 📈 Data Visualization
+- 🐍 Python Practice
+- 📚 Notes & Theory
+- 🔥 Mini Projects
+- 📝 Jupyter Notebooks
 
+---
 
