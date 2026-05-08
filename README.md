@@ -28,4 +28,13 @@ In this repository, you will find:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+## 🧰 Tools & Platforms
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- PyCharm
+- Git & GitHub
+
+---
+
 
