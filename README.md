@@ -37,4 +37,41 @@ In this repository, you will find:
 
 ---
 
+# 📂 Topics Covered
+
+## 📌 Python Basics
+- Variables
+- Data Types
+- Loops
+- Functions
+- OOP
+
+## 📌 NumPy
+- Arrays
+- Indexing & Slicing
+- Shape Manipulation
+- Built-in Functions
+
+## 📌 Pandas
+- DataFrames
+- Data Cleaning
+- Data Analysis
+
+## 📌 Data Visualization
+- Matplotlib
+- Seaborn Charts
+
+## 📌 Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Regression
+- Classification
+- Clustering
+
+## 📌 Deep Learning
+- Neural Networks Basics
+- Introduction to TensorFlow
+
+---
+
 
