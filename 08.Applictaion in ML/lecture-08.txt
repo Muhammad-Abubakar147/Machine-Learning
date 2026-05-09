@@ -12,3 +12,5 @@ will pay back laon or not on the basis of past experiene .
 for example : If someone take laon earlier and pay back with not trust then laon application will reject 
 
 this is done with machine learning algorithem .
+
+3 => Transportation (ex=Ola,bikiya,obar,indrive)
