@@ -2,9 +2,9 @@ Appliction of Machine learning
 
 There are many Application of Machine learning
 
-1 => Retail /Amazon Big bazar 
+1 => "Retail /Amazon Big bazar "
 
-2 => Banking and finance 
+2 => "Banking and finance "
 
 In banking and finance feild when we apply for bank loan then machine learning algorithm detect that this person 
 will pay back laon or not on the basis of past experiene .
@@ -13,11 +13,15 @@ for example : If someone take laon earlier and pay back with not trust then laon
 
 this is done with machine learning algorithem .
 
-3 => Transportation (ex=Ola,bikiya,obar,indrive)
+3 => "Transportation" (ex=Ola,bikiya,obar,indrive)
 
-4 => Manufacturing (Honda , Toyota, Audi ,Thar)
+4 =>"Manufacturing" (Honda , Toyota, Audi ,Thar)
+
 In these companies they use rorbotic machines for the manufacturing something like in tesla comapny robotic machines 
 
 are use for making car parts eg : some robotic machines are used for making engine . When one of them one make issue in making engine machine 
 
 learning module detect the defect in rorbotic machines (predictive maintainance)
+
+
+5 => "Consumer internet" (Tiwiter)
