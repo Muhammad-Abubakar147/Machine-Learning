@@ -14,3 +14,10 @@ for example : If someone take laon earlier and pay back with not trust then laon
 this is done with machine learning algorithem .
 
 3 => Transportation (ex=Ola,bikiya,obar,indrive)
+
+4 => Manufacturing (Honda , Toyota, Audi ,Thar)
+In these companies they use rorbotic machines for the manufacturing something like in tesla comapny robotic machines 
+
+are use for making car parts eg : some robotic machines are used for making engine . When one of them one make issue in making engine machine 
+
+learning module detect the defect in rorbotic machines 
