@@ -31,3 +31,9 @@ learning module detect the defect in rorbotic machines (predictive maintainance)
 "for example" when we use youtube and watching videos about cricket and ignoring videos about footbal.
 
 after sometimes youtue prefer us cricket videos more this is due to machine learning
+
+Similarly when we are scrolling on instagram when we like share and watching one specific type of video 
+
+(CARTOONS , MOVIES ,NOVELS, COMEDY) then instgram learn from given data and machine learning alogrithm 
+
+works and suggest us like those videos which we are watching 
