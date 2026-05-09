@@ -20,4 +20,4 @@ In these companies they use rorbotic machines for the manufacturing something li
 
 are use for making car parts eg : some robotic machines are used for making engine . When one of them one make issue in making engine machine 
 
-learning module detect the defect in rorbotic machines 
+learning module detect the defect in rorbotic machines (predictive maintainance)
