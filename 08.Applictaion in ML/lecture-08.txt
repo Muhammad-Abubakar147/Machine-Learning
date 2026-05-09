@@ -25,3 +25,7 @@ learning module detect the defect in rorbotic machines (predictive maintainance)
 
 
 5 => "Consumer internet" (Tiwiter)
+
+for example when we use youtube and watching videos about cricket and ignoring videos about footbal.
+
+after sometimes youtue prefer us cricket videos more this is due to machine learning
