@@ -1,3 +1,9 @@
 Machine learning dvelopment life cycle plays an important role in machine learning 
 
+Machine learning development life cycle is the complete process of maintaining,deploying,building,traing and testing of 
+
+learning module 
+
+it helps to covert raw data into intelligence that can make prediction and decision .
+
 There are different ways in which (MLDLC) Covers
