@@ -1,4 +1,6 @@
-Machine learning dvelopment life cycle plays an important role in machine learning 
+Machine learning dvelopment life cycle (MLDLC) plays an important role in machine learning 
+
+(SDLC) stands for software development life cycle ..
 
 Machine learning development life cycle is the complete process of maintaining,deploying,building,traing and testing of 
 
