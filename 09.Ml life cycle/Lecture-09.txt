@@ -7,3 +7,29 @@ learning module
 it helps to covert raw data into intelligence that can make prediction and decision .
 
 There are different ways in which (MLDLC) Covers
+
+1. Problem Definition
+
+In this step, we clearly define:
+
+What problem we want to solve ?
+What type of output is needed ?
+Success criteria
+
+2. Data Collection
+
+Machine learning models learn from data.
+
+Data can be collected from:
+
+Databases
+APIs
+Websites
+Sensors
+Surveys
+CSV/Excel files
+
+"Types of Data"
+Structured Data
+Unstructured Data
+Semi-Structured Data
