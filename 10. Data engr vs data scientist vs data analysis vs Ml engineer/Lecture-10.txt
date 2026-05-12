@@ -7,6 +7,5 @@ Today we are going to discuss about =>Data analyst,
                     Data Engineer is the person who collect the data and give to the given person who is working on machine learning
 
 "OLTP" => is the process of online transaction processing
-He make "OLAP" online app processing
-
+He make "OLAP" online app processing.
 we can say that "OLTP" IS THE data base and "OLAP" is data warehouse.
