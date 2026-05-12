@@ -1,0 +1,4 @@
+Today we are going to discuss about =>Data analyst,
+                                    =>Data scientist,
+                                    =>Data Engineer,
+                                    =>Machine learning Engineer
