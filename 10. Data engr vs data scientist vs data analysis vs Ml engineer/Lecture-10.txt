@@ -5,4 +5,5 @@ Today we are going to discuss about =>Data analyst,
 
 1 . => Data Engineer 
                     Data Engineer is the person who collect the data and give to the given person who is working on machine learning
-                    
+
+"OLTP" => is the process of online transaction processing
