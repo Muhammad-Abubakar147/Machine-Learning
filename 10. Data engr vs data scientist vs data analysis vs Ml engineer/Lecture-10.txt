@@ -2,3 +2,7 @@ Today we are going to discuss about =>Data analyst,
                                     =>Data scientist,
                                     =>Data Engineer,
                                     =>Machine learning Engineer
+
+1 . => Data Engineer 
+                    Data Engineer is the person who collect the data and give to the given person who is working on machine learning
+                    
