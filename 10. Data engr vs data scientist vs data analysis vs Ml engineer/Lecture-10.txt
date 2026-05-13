@@ -22,5 +22,6 @@ Strong grip on googal claude => Amazon,web services,googal claude platforms etc.
                      Data analyst is the person who analysis the data .
 
 Responsibiltes of Data Analyst:
-
+                                Cleaning and or gnaizing the raw data.
+                                creating data visulizations .
 
