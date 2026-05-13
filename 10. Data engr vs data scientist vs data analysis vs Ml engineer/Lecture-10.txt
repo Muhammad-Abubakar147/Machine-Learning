@@ -25,3 +25,8 @@ Responsibiltes of Data Analyst:
                                 Cleaning and or gnaizing the raw data.
                                 creating data visulizations .
 
+Skills require fo Data Analyst:
+Statical programming.
+Programming language => Python, R , Saas etc
+
+
