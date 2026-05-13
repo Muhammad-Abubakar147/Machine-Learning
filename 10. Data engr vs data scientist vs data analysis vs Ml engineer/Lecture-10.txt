@@ -3,8 +3,8 @@ Today we are going to discuss about =>Data analyst,
                                     =>Data Engineer,
                                     =>Machine learning Engineer
 
-1 . => Data Engineer 
-                    Data Engineer is the person who collect the data and give to the given person who is working on machine learning
+1 . => Data Engineer :
+                      Data Engineer is the person who collect the data and give to the given person who is working on machine learning
 
 "OLTP" => is the process of online transaction processing
 He make "OLAP" online app processing.
@@ -17,3 +17,10 @@ Skills require for Data Engineer:
 Programming language => "Java,Python,R,Scala"
 
 Strong grip on googal claude => Amazon,web services,googal claude platforms etc.
+
+2 . => Data Analyst :
+                     Data analyst is the person who analysis the data .
+
+Responsibiltes of Data Analyst:
+
+
