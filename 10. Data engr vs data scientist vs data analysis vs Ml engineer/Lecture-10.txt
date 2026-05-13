@@ -74,3 +74,31 @@ Statistics
 Pandas & NumPy
 Data Visualization tools
 
+4 . => Machine laerning Engineer :
+                                    A Machine Learning Engineer is a professional who designs, builds, and deploys systems that can learn from data and make predictions automatically.
+
+Simple Definition (Easy Words)
+
+A machine learning engineer teaches computers how to learn patterns from data and make smart decisions without being explicitly programmed every time.
+
+Example
+
+A machine learning engineer at Google may build a system that recognizes spam emails automatically.
+
+Main Tasks :
+
+Building ML models
+Training algorithms on data
+Improving model accuracy
+Deploying AI systems
+Automating predictions
+Working with large datasets
+
+Skills Needed :
+Python
+Machine Learning algorithms
+Deep Learning
+TensorFlow / PyTorch
+Data Structures & Algorithms
+Mathematics & Statistics
+
