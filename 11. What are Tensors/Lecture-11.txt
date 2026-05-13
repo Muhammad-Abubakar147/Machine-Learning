@@ -1,2 +1,3 @@
 Tensors are the most important in machine laerning 
 Tensors is nothing but a data Structure
+Tensor is nothing but a container for numbers 
