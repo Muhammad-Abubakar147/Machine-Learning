@@ -38,3 +38,39 @@ SQL
 3 . => Data scientist :
                        “A Data Scientist turns raw data into meaningful insights and smart decisions.”
 
+=> A Data Scientist is a professional who collects, analyzes, and interprets data to find useful insights and help in decision-making.
+
+They use:
+
+Programming (Python, R)
+Statistics & Mathematics
+Machine Learning
+Data Visualization
+Business Understanding
+
+to solve real-world problems using data.
+
+Simple Definition (Easy Words)
+
+A data scientist is a person who studies data to discover patterns, predict outcomes, and create intelligent solutions.
+
+Example
+
+A data scientist at Netflix analyzes users’ watching habits to recommend movies and shows you may like.
+
+Main Tasks of a Data Scientist
+Collecting data
+Cleaning and organizing data
+Analyzing patterns
+Building ML models
+Making predictions
+Creating reports and visualizations
+
+Skills Needed :
+Python
+SQL
+Machine Learning
+Statistics
+Pandas & NumPy
+Data Visualization tools
+
