@@ -15,3 +15,5 @@ Skills require for Data Engineer:
 => He should must be a proper software engineer .
 
 Programming language => "Java,Python,R,Scala"
+
+Strong grip on googal claude => Amazon,web services,googal claude platforms etc.
