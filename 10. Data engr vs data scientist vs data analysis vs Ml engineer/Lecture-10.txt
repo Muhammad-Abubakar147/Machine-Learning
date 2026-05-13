@@ -13,3 +13,5 @@ The most important work of data Engineer is made data warehouse from data base.
 
 Skills require for Data Engineer:
 => He should must be a proper software engineer .
+
+Programming language => "Java,Python,R,Scala"
