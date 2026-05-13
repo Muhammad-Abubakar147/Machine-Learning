@@ -1,3 +1,16 @@
 Tensors are the most important in machine laerning 
 Tensors is nothing but a data Structure
 Tensor is nothing but a container for numbers 
+
+
+                  What is tensor?
+
+If you ever study about vectors and matrices than actually you used tensors.
+
+When its 0D we called scalar number like single number . e.g 1 ,2 ,3
+
+When its 1D we called them vectors or lists like arr = [1 ,2 , 4] 
+
+When its 2D we called them matrix like [[1 , 2] , [2 ,4]]
+
+So whats about 3d vectors and 4d , 5d we don't have their individual names so the scientists discover the term tensors that follow all the rules.
