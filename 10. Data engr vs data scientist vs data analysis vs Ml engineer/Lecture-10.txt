@@ -35,3 +35,6 @@ Data Mining ,cleaning etc
 Data visulizations
 SQL
 
+3 . => Data scientist :
+                       “A Data Scientist turns raw data into meaningful insights and smart decisions.”
+
