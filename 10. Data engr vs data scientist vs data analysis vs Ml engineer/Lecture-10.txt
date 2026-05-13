@@ -9,3 +9,4 @@ Today we are going to discuss about =>Data analyst,
 "OLTP" => is the process of online transaction processing
 He make "OLAP" online app processing.
 we can say that "OLTP" IS THE data base and "OLAP" is data warehouse.
+The most important work of data Engineer is made data warehouse from data base.
