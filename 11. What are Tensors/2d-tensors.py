@@ -10,3 +10,5 @@ print(mat) #output will be in form of matrix
 #Dimension  of (matrix) 2d tenosr
 
 print(mat.ndim)
+
+#matrix is nothing but colletion of vectors
