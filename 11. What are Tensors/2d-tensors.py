@@ -1,0 +1,1 @@
+#we can say that 2d tensors made of combining of different scalors and combining of different vectors
