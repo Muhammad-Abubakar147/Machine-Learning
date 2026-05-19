@@ -4,4 +4,5 @@ Here we will discuss about How to frame a Machine learning
 
 =>How you will work in Netflix for improving Netflix reputation ?
 
-
+=> You will check monthly costmer rate 
+=> How uh will stop those costmer who are lefting netflix monthly 
