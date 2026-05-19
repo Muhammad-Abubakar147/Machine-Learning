@@ -6,3 +6,4 @@ Here we will discuss about How to frame a Machine learning
 
 => You will check monthly costmer rate 
 => How uh will stop those costmer who are lefting netflix monthly 
+=> How uh will Manage churn rate of Netflix (Churn rate is percentage of those costmer who are lefting netflix monthly)
