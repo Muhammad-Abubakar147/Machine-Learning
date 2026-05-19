@@ -2,4 +2,6 @@ Here we will discuss about How to frame a Machine learning
 
 => First of all let's suppose u are a data scientist and working in a Netflix company 
 
+=>How you will work in Netflix for improving Netflix reputation ?
+
 
