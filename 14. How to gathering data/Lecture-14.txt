@@ -1,12 +1,19 @@
 Data gatering is basically collection of data from different sources.
+
 We will talk about differnet things where from we will collect the data and will talk about in which type we will collect data .
 
 => There are different types of data gatering format 
 
 => The most common and easy => CSV file 
+
 =>Second one is that JASON file and SQL.(JASON stands for "java script on Notation")
+
 => Fetch data from API (from actual website/site =>data pull)
+
 => Webscrepe 
 
+===============================================================================================================
 
 1. => Today we will focus on CSV file data  ("CSV stands for Comma-Separated Values.") TSV (tab separated values  )
+
+================================================================================================================
