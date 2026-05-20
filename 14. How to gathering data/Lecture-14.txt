@@ -14,6 +14,6 @@ We will talk about differnet things where from we will collect the data and will
 
 ===============================================================================================================
 
-1. => Today we will focus on CSV file data  ("CSV stands for Comma-Separated Values.") TSV (tab separated values  )
+1. => Today we will focus on CSV file data  ("CSV stands for Comma-Separated Values.") TSV (tab separated values)
 
 ================================================================================================================
