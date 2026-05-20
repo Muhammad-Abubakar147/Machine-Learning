@@ -9,4 +9,4 @@ We will talk about differnet things where from we will collect the data and will
 => Webscrepe 
 
 
-1. => Today we will focus on CSV file data 
+1. => Today we will focus on CSV file data  ("CSV stands for Comma-Separated Values.")
