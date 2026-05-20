@@ -4,4 +4,4 @@ We will talk about differnet things where from we will collect the data and will
 => There are different types of data gatering format 
 
 => The most common and easy => CSV file 
-=>Second one is that JASON file and SQL.
+=>Second one is that JASON file and SQL.(JASON stands for "java script on Notation")
