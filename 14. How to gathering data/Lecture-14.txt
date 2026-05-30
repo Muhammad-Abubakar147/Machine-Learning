@@ -1,4 +1,7 @@
 How to gathering data ?
+
+Here we will discuss gathering of data wit CSV file..
+
 Data gatering is basically collection of data from different sources.
 
 We will talk about differnet things where from we will collect the data and will talk about in which type we will collect data .
