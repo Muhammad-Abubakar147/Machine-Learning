@@ -69,7 +69,7 @@ In this repository, you will find:
 - Clustering
 
 ## 📌 Deep Learning
-- Neural Networks Basics
+- Neural Networks Basics..
 - Introduction to TensorFlow
 
 ---
