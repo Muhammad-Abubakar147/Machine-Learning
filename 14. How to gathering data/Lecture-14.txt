@@ -10,11 +10,11 @@ We will talk about differnet things where from we will collect the data and will
 
 => The most common and easy => CSV file 
 
-=>Second one is that JASON file and SQL.(JASON stands for "java script on Notation")
+=> Second one is that JASON file and SQL.(JASON stands for "java script on Notation")
 
 => Fetch data from API (from actual website/site =>data pull)
 
-=> Webscrepe 
+=> Webscrepe (We run parcel on website in python and others language which naviagte the code of html of website)
 
 ===============================================================================================================
 
