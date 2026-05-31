@@ -5,7 +5,10 @@ Here we will discuss about How to frame a Machine learning
 =>How you will work in Netflix for improving Netflix reputation ?
 
 => You will check monthly costmer rate 
+
 => How uh will stop those costmer who are lefting netflix monthly 
+
 => How uh will Manage churn rate of Netflix (Churn rate is percentage of those costmer who are lefting netflix monthly)
+
 This churn rate can be 2.5% per month and might be possible more than it  ....
 
