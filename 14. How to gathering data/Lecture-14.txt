@@ -1,4 +1,4 @@
-How to gathering data ?
+How to gathering data ... ?
 
 Here we will discuss gathering of data wit CSV file..
 
