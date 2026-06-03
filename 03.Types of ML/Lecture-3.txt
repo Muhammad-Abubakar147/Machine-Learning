@@ -6,3 +6,6 @@ Mainly there are many types of machine learing but there are 4  main types of ma
 04.=> Inforcement Machine learning..
 
 
+===============================================
+01.=> Supervised Machine learing..
+===============================================
