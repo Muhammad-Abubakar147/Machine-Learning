@@ -15,3 +15,4 @@ output and input This is  called as supervised machine laeraning .
 
 For Example :
 When we have data of 5000 students .We have their (iq level data ,cgpa) these both are input then we will find out their job placement trough Ml model .
+ iq level and cgpa is inputs .
