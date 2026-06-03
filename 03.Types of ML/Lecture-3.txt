@@ -41,3 +41,7 @@ ie => Age ,wieght ,cgpa,iq level
 =>Classification:
 If we are working on supervised  machine learning model and output came as Categorical data than
 this will called as Classification.
+
+-----------------------------------------------------------------------------------
+
+=>2 . Unsupervised machine learing .
