@@ -22,4 +22,5 @@ supervised machine learning is making prediction through inputs of data .
 ===========
 Parts of Supervised machine learning :
 ===========
-=>1. 
+=>1. Regression 
+=>2. Classification
