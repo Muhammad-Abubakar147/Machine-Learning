@@ -45,3 +45,5 @@ this will called as Classification.
 -----------------------------------------------------------------------------------
 
 =>2 . Unsupervised machine learing .
+
+In Unsupervised machine learing it is oposite of supervised machine learing in which we have just input only .
