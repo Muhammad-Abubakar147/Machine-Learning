@@ -1,4 +1,6 @@
-Machine learning is a branch of computer science in which a subset of artificial intelligence (AI) that enables computers to learn from data and make predictions or decisions without being explicitly programmed.
+Machine learning is a branch of computer science in which a subset of artificial intelligence (AI) that enables computers to 
+
+learn from data and make predictions or decisions without being explicitly programmed.
 
 Machine learning is actually learning from data.....
 
