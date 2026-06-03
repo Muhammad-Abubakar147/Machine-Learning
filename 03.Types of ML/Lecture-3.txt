@@ -27,4 +27,13 @@ Parts of Supervised machine learning :
 
 For undersanding both we should have to understand that what type of data is ?
 
-Data is  of two types 
+Data is  of two types :
+
+=>Numerical data 
+ie => Age ,wieght ,cgpa,iq level
+=>Categorical data 
+=> cast, gender, nation, 
+
+=> Regression:
+ If we are working on a Ml model in which we have both input and out put we are making prediction through this model and comming output is baout numerical 
+ than we will called as supervised Ml regression .
