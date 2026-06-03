@@ -24,3 +24,7 @@ Parts of Supervised machine learning :
 ===========
 =>1. Regression 
 =>2. Classification
+
+For undersanding both we should have to understand that what type of data is ?
+
+Data is  of two types 
