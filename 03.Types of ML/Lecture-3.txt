@@ -16,3 +16,5 @@ output and input This is  called as supervised machine laeraning .
 For Example :
 When we have data of 5000 students .We have their (iq level data ,cgpa) <= these both are input then we will find out their job data placement trough Ml model .
  iq level and cgpa is inputs .
+
+supervised machine learning is making prediction through inputs of data .
