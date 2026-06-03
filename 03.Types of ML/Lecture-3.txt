@@ -9,3 +9,5 @@ Mainly there are many types of machine learing but there are 4  main types of ma
 ===============================================
 01.=> Supervised Machine learing..
 ===============================================
+
+=> supervised machine learning is about when we have both output and inputs
