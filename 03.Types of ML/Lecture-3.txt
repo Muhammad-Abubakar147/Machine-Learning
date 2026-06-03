@@ -20,5 +20,6 @@ When we have data of 5000 students .We have their (iq level data ,cgpa) <= these
 supervised machine learning is making prediction through inputs of data .
 
 ===========
-Types of Supervised machine learning :
+Parts of Supervised machine learning :
 ===========
+=>1. 
