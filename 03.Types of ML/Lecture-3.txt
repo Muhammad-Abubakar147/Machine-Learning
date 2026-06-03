@@ -37,3 +37,6 @@ ie => Age ,wieght ,cgpa,iq level
 => Regression:
  If we are working on a Ml model in which we have both input and out put we are making prediction through this model and comming output is baout numerical 
  than we will called as supervised Ml regression .
+
+=>Classification:
+If we are working on supervised  machine learning model and output came as Categorical data than this will called as Classification.
