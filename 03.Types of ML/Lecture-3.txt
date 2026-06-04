@@ -77,3 +77,9 @@ Ml algorithm will amke a new column name by "area by square" means that how much
                                              in mart bazar we detect previous year data that what sale more and what other thing sales more due to first thing .
                                              then we will organized them.
                                              If sale of milk is most , and due to milk eggs sale is more then we will categroized them both with each other .This is all about Assosiation rule learing
+
+====================================================================================================================================================================================
+
+=======================================
+3 . => Semisupervised machine learing :
+=======================================
