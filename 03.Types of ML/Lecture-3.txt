@@ -70,3 +70,6 @@ Ml algorithm will amke a new column name by "area by square" means that how much
                           Predicting some issue .
                           for example when we have data which shows same line in graph but one line showing different than other
                           it will detect trough Anomaly detection
+
+4 .=> Assosiation Rule learing :
+                                When we are going to pharmacy and mart bazar we see that everythins is well orgnized like in pharmacy every medicine is categroized .
