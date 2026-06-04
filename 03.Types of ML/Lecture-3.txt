@@ -113,3 +113,7 @@ Improves its predictions using information from both datasets.
 ==================================
 4 .=> Reinforcement :
 ==================================
+
+=> Reinforcement Learning (RL) is a type of machine learning in which an agent learns how to make decisions by interacting with an environment and receiving rewards or penalties for its actions.
+
+The goal of the agent is to learn a strategy (called a policy) that maximizes the total reward over time.
