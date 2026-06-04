@@ -55,3 +55,7 @@ like :"Clustring" , "Undimesionality reduction" ,"Anomaly detection" ,"Assosiati
 
 1 .=> Clustring:
                   In Clustring we categroized the data (for example : we make groups of students that whos students came in one group and whos students came in other group)
+In Clustring we make clusters of data
+
+2 .=> Dimentionality reduction :
+                                When we are working on supervised machine learing sometimes we have a lot of input data(inputs cloumns)
