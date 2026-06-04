@@ -60,4 +60,6 @@ In Clustring we make clusters of data
 2 .=> Dimentionality reduction :
                                 When we are working on supervised machine learing sometimes we have a lot of input data(inputs cloumns)
 the disadvantage of many input columns is our algorithm work very slow .
-=>Dimentionality reduction remove those extra columns .
+=>Dimentionality reduction remove those extra columns . I will give uh an example 
+
+iF WE ARE WORKING ON HOUSE PRICE prediction if we have two columns like "no of washrooms in house" , "no of rooms in house",
