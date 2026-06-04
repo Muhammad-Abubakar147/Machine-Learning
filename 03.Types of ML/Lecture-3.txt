@@ -83,3 +83,4 @@ Ml algorithm will amke a new column name by "area by square" means that how much
 =======================================
 3 . => Semisupervised machine learing :
 =======================================
+=> Semisupervised machine learing is partially supervised machine learing and partially Unsupervised machine learing .
