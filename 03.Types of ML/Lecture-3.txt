@@ -84,3 +84,26 @@ Ml algorithm will amke a new column name by "area by square" means that how much
 3 . => Semisupervised machine learing :
 =======================================
 => Semisupervised machine learing is partially supervised machine learing and partially Unsupervised machine learing .
+Semi-Supervised Learning (SSL) is a machine learning approach that uses a small amount of labeled data together with a large amount of unlabeled data to train a model.
+
+It combines ideas from both supervised and unsupervised learning.
+
+How It Works
+Supervised Learning: All training data is labeled.
+Unsupervised Learning: No labels are available.
+Semi-Supervised Learning: A small portion of the data is labeled, while the majority is unlabeled.
+
+The goal is to leverage the unlabeled data to improve model performance without the cost of labeling every example.
+
+Example
+
+Suppose you have 10,000 images:
+
+500 images are labeled as "Cat" or "Dog"
+9,500 images are unlabeled
+
+Instead of manually labeling all 10,000 images, a semi-supervised learning algorithm:
+
+Trains on the 500 labeled images.
+Learns patterns from the 9,500 unlabeled images.
+Improves its predictions using information from both datasets.
