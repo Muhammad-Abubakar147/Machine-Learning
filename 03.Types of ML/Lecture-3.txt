@@ -1,4 +1,4 @@
-Mainly there are many types of machine learing but there are 4  main types of machine learning 
+Mainly there are many types of machine learing but there are "4  main types of machine learning "
 
 01.=> Supervised Machine learing..
 02.=> Unsupervised machine learning..
@@ -50,3 +50,4 @@ this will called as Classification.
 ====================================
 
 In Unsupervised machine learing it is oposite of supervised machine learing in which we have just input only .
+....
