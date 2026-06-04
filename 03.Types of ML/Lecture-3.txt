@@ -75,3 +75,4 @@ Ml algorithm will amke a new column name by "area by square" means that how much
                                 When we are going to pharmacy and mart bazar we see that everythins is well orgnized like in pharmacy every medicine is categroized .
                                 for example :
                                              in mart bazar we detect previous year data that what sale more and what other thing sales more due to first thing .
+                                             then we will organized them.
