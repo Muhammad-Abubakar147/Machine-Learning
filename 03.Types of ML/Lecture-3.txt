@@ -109,3 +109,7 @@ Learns patterns from the 9,500 unlabeled images.
 Improves its predictions using information from both datasets.
 
 ================================================================================================
+
+==================================
+4 .=> Reinforcement :
+==================================
