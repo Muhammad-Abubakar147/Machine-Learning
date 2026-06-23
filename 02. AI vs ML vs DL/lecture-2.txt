@@ -15,3 +15,5 @@ What is Dl ..?
 => Deep learning is a subset of machine learning.  we can say that deep learning is like machine learing 
 
 deep learning is inspired from (nural  network).. we can say that it like human brain ..
+
+This is short intro about Ai Ml and Dl ..
