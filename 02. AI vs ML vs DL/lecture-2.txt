@@ -17,3 +17,5 @@ What is Dl ..?
 deep learning is inspired from (nural  network).. we can say that it like human brain ..
 
 This is short intro about Ai Ml and Dl ..
+
+Here we will discuss about all of about MAchine learning Deep learning and Artificial intelligence .
