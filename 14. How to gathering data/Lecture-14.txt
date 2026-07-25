@@ -14,7 +14,7 @@ We will talk about differnet things where from we will collect the data and will
 
 => Fetch data from API (from actual website/site =>data pull)
 
-=> Webscrepe (We run parcel on website in python and others language which naviagte the code of html of website)
+=> Webscreping (We run parcel on website in python and others language which naviagte the code of html of website)
 
 ===============================================================================================================
 
