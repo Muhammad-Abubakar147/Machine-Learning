@@ -1,1 +1,3 @@
 JSON satnds for Java cript on notation and this is universal format (means all progarming format can understand it .)
+
+SQL satnds  for Structure query language . Basically it is a database .
