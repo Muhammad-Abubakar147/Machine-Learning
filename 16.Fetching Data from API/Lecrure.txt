@@ -1,3 +1,8 @@
 API stands for Application programming interface 
 
 API is basically connect(coversate) between two softwares .
+API is nothing but this is a data pipeline . 
+
+For example :
+Uh go to a five stand hotel for eatig something the room where uh sit is called as front end .
+When waiter come to uh for taking order (this is example of API) . they take ur order and tell the cook and cheif whick make ur food .
