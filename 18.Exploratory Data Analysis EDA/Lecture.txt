@@ -9,3 +9,7 @@ There are some types of EDA which is differnet to each other .
 Here we will Disscuss about first type which is Univariate Exploratory Data Analysis .
 
 Univariate Data Analysis means that "Single varibale analysis called as Univariate Analysis .
+When we have a data in which multiple columns are present we can say each column as Variable .
+The analysis which we do single called as Univariate Exploratory Data Analysis .
+If we analysis the two columns of any dataset that is called as Bivariate data analysis .
+If we analysis on more than two columns that is called as Multivariate Exploratory Data Analysis .
