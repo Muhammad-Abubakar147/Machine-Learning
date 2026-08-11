@@ -5,3 +5,7 @@ There are some types of EDA which is differnet to each other .
 => Univariate Exploratory Data Analysis EDA .
 => Bivariate Exploratory Data Analysis EDA .
 => Multivariate Exploratory Data Analysis EDA .
+
+Here we will Disscuss about first type which is Univariate Exploratory Data Analysis .
+
+Univariate Data Analysis means that "Single varibale analysis called as Univariate Analysis .
