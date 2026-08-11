@@ -1,1 +1,4 @@
 Understanding ur data is important part in which we learn how to understand the data which we collected from different sources which we discussed already in previous lectures .
+We will learn this in 4 parts .
+
+In this part we will disscuss => " Asking Questions "
