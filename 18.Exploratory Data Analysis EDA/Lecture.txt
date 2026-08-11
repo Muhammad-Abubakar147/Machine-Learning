@@ -13,3 +13,11 @@ When we have a data in which multiple columns are present we can say each column
 The analysis which we do single called as Univariate Exploratory Data Analysis .
 If we analysis the two columns of any dataset that is called as Bivariate data analysis .
 If we analysis on more than two columns that is called as Multivariate Exploratory Data Analysis .
+
+In this lecture we will completely focus on Univariate Exploratory Data Analysis . 
+
+Before starting this we should have to know that there is two types of data .
+which is Categorical data and Numerical data . 
+
+=> Numerical data => number => Hieght,wieght,age etc 
+=> Categorical data => Country ,cast ,Quality etc .
