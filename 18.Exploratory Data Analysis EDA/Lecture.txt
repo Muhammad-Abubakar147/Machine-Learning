@@ -1,0 +1,7 @@
+EDA (Exploratory Data Analysis) is the process of exploring, understanding, and summarizing a dataset before applying Machine Learning.
+
+There are some types of EDA which is differnet to each other .
+
+=> Univariate Exploratory Data Analysis EDA .
+=> Bivariate Exploratory Data Analysis EDA .
+=> Multivariate Exploratory Data Analysis EDA .
