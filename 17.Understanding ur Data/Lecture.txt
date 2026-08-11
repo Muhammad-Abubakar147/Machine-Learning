@@ -5,3 +5,9 @@ We will learn this in 4 parts .
 => Next we will disscuss EDA stands for => Exploratory Data Analysis .
 => EDA are two types => Univariated and multivariated .
 => Pnadas profiler .
+
+
+Question asking from urself :
+=>how data big is ?
+=>How does data is look like ?
+=> What is the data types of cols ?
