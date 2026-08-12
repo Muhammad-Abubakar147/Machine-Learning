@@ -1,0 +1,4 @@
+EDA with bivariate and multivariate is analysis which is done on two more than two columns is known as bivariate and multivariate EDA .
+
+If we do analysis on two columns than analysis called as bivariate EDA .
+if we do analysis on more than two columns than analysis called as multivariate EDA .
