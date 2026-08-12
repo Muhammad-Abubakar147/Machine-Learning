@@ -1,0 +1,7 @@
+Pandas Profiling is a library that automatically generates an
+
+ exploratory data analysis (EDA) report for a pandas DataFrame.
+
+  It has been renamed to ydata-profiling, 
+  
+   but many people still refer to it as "pandas profiling."
