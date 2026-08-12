@@ -2,3 +2,17 @@ EDA with bivariate and multivariate is analysis which is done on two more than t
 
 If we do analysis on two columns than analysis called as bivariate EDA .
 if we do analysis on more than two columns than analysis called as multivariate EDA .
+
+
+
+=> Bivariate EDA :
+
+=> Analyzes the relationship between two variables.
+=> Helps identify correlation, patterns, and dependencies.
+=> Common techniques: scatter plots, correlation, and box plots.
+
+=> Multivariate EDA : 
+
+=> Analyzes three or more variables simultaneously.
+=> Helps discover complex relationships and interactions among variables.
+=> Common techniques: heatmaps, pair plots, and multivariate visualizations
