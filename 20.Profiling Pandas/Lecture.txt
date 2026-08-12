@@ -9,4 +9,6 @@ Pandas Profiling is a library that automatically generates an
 
 For install this library Run This command in ur Laptop/Pc .
 
-Pip install Pandas-profiling .
+pip install -U ydata-profiling
+
+ur python should be 3.12 for this library .
