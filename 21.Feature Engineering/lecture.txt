@@ -1,0 +1,2 @@
+Feature engineering is the basic process of creating transforming and selecting usefull features for the raw data so that machine learning model can learn better .
+
