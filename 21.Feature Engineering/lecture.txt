@@ -8,3 +8,20 @@ There are 4 types of features engineering :
 => Feature Construction .
 => Feature Selection .
 => Feature extraction .
+
+
+1. Feature Transformation
+
+Changing the existing feature into a more useful form.
+
+2. Feature Construction
+
+Creating a new feature from existing features.
+
+3. Feature Selection 
+
+Feature Selection is the process of selecting the most relevant and useful features from a dataset while removing unnecessary or irrelevant features.
+
+4 . Feature Extraction
+
+Extracting useful information from raw or complex data.
