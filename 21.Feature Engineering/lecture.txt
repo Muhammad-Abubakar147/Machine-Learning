@@ -1,2 +1,10 @@
 Feature engineering is the basic process of creating transforming and selecting usefull features for the raw data so that machine learning model can learn better .
 
+| Types of Fetaure Engineering |
+
+There are 4 types of features engineering :
+
+=> Feature Transformation .
+=> Feature Construction .
+=> Feature Selection .
+=> Feature extraction .
