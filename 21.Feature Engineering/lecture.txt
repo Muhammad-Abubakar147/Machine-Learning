@@ -25,3 +25,33 @@ Feature Selection is the process of selecting the most relevant and useful featu
 4 . Feature Extraction
 
 Extracting useful information from raw or complex data.
+
+
+
+
+| Feature Transformation |
+
+    🎓 Lecture:
+
+
+=>  Feature Transformation :
+
+1. What is Feature Transformation?
+
+Feature Transformation is the process of changing the values or distribution of an existing feature into a different form that is more suitable for a Machine Learning model.
+
+Simple definition:
+
+Feature Transformation = Changing the form of existing features without changing the basic information they contain.
+
+Example
+
+Suppose we have:
+
+Age = 20, 25, 30, 35, 40
+
+We can transform it using scaling:
+
+Age = 0.0, 0.25, 0.50, 0.75, 1.0
+
+The information is still about age, but its numerical representation has changed.
