@@ -1,5 +1,37 @@
 Feature scaling is the last thing which we can do in feature engineering .
 
-🎯 Core Idea of Feature Scaling
+=> | Core Idea of Feature Scaling |
 
 Feature scaling means bringing different features (columns) into a similar numerical range so that no feature unfairly dominates the others.
+
+Here:
+
+Size: 1000 → 3000
+Bedrooms: 2 → 6
+
+The values of Size are much larger than Bedrooms.
+
+A machine learning algorithm may think:
+
+"Size has huge numbers, so maybe Size is more important!"
+
+But 1000 vs 2 doesn't necessarily mean Size is more important.
+
+So we scale the features to make their values comparable.
+
+=> | Why Do We Need Scaling? |
+
+Think of it like a race.
+
+Suppose:
+
+Person A runs 100 meters
+Person B runs 1 kilometer
+
+If we compare their raw numbers, 1000 looks much bigger than 100.
+
+Feature scaling says:
+
+"Let's put them on a similar scale before comparing them."
+
+This is especially important for algorithms that depend on distance or mathematical calculations.
