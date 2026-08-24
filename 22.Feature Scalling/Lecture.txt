@@ -1,0 +1,5 @@
+Feature scaling is the last thing which we can do in feature engineering .
+
+🎯 Core Idea of Feature Scaling
+
+Feature scaling means bringing different features (columns) into a similar numerical range so that no feature unfairly dominates the others.
