@@ -65,3 +65,5 @@ Notice that:
 Values below the mean → negative
 Value equal to the mean → 0
 Values above the mean → positive
+
+The next portion is disscus in next class . 
