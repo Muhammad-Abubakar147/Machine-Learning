@@ -38,7 +38,7 @@ This is especially important for algorithms that depend on distance or mathemati
 
 
 
-What is Standardization?
+What is Standardization / Z score Normalization?
 
 Standardization is a feature scaling technique that changes the data so that its mean becomes 0 and its standard deviation becomes 1.
 
@@ -67,3 +67,7 @@ Value equal to the mean → 0
 Values above the mean → positive
 
 The next portion is disscus in next class . 
+
+There is two types of feature scalling :
+=> Standardization
+=> Normalization 
